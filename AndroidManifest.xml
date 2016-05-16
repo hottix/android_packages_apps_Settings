@@ -2651,6 +2651,9 @@
             </intent-filter>
         </activity>
 
+        <!-- Hottix -->
+       <activity android:name=".hottix.HottixSettings" />
+
         <receiver android:name=".widget.SettingsAppWidgetProvider"
                 android:label="@string/gadget_title"
                 android:exported="false"

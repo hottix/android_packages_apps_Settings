@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<!-- Hottix settings -->
+	<string name="hottix_settings_title">Hottix tweaks</string>
+	<!-- Notifications and sounds -->
+	<string name="notifcations_and_sounds_screen_title">Notifications and sounds</string>
+	<!-- Notifications -->
+	<string name="notifications_category_title">Notifications</string>
+	<!-- Status bar -->
+	<string name="status_bar_category_title">Status bar</string>
+	<!-- System -->
+	<string name="system_settings_screen_title">System settings</string>
+
+</resources>
